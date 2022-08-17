@@ -606,7 +606,7 @@ DOMAIN-SUFFIX,go.10086.cn
 DOMAIN-SUFFIX,hivedata.cc
 DOMAIN-SUFFIX,navi.gd.chinamobile.com
 
-#--小米视频-MIUI****************
+#小米视频****************
 DOMAIN-SUFFIX, video.market.xiaomi.com
 DOMAIN-SUFFIX, t1.a.market.xiaomi.com
 DOMAIN-SUFFIX, t2.a.market.xiaomi.com
@@ -741,7 +741,7 @@ DOMAIN-SUFFIX, stc.iqiyipic.com
 DOMAIN-SUFFIX, www.iqiyipic.com
 DOMAIN-SUFFIX, qy.net
 DOMAIN-SUFFIX, msg.qy.net
-#--腾讯视频-Tencent****************
+#腾讯视频****************
 DOMAIN-SUFFIX, aiseet.aa.atianqi.com
 DOMAIN-SUFFIX, livep.l.aiseet.atianqi.com
 DOMAIN-SUFFIX, lives.l.aiseet.atianqi.com
@@ -807,7 +807,7 @@ DOMAIN-SUFFIX, scorecardresearch.com
 DOMAIN-SUFFIX, sb.scorecardresearch.com
 DOMAIN-SUFFIX, smtcdns.com
 DOMAIN-SUFFIX, apd-d672e2f58ccaa621edb180e67421e245.v.smtcdns.com
-#--搜狐视频-Sohu****************
+#搜狐视频****************
 DOMAIN-SUFFIX, sohu-dtv.m.cn.miaozhen.com
 DOMAIN-SUFFIX, agn.aty.snmsohu.aisee.tv
 DOMAIN-SUFFIX, agn.aty.sohu.com
@@ -891,7 +891,7 @@ DOMAIN-SUFFIX, ads.data.pplive.com
 DOMAIN-SUFFIX, gas.data.pplive.com
 DOMAIN-SUFFIX, plt.data.pplive.com
 DOMAIN-SUFFIX, web.data.pplive.com
-#--芒果TV-Mgtv****************
+#芒果TV****************
 DOMAIN-SUFFIX, mobile.da.mgtv.com
 DOMAIN-SUFFIX, mobile2.da.mgtv.com
 DOMAIN-SUFFIX, ott.da.mgtv.com
@@ -916,7 +916,7 @@ DOMAIN-SUFFIX, zx.da.mgtv.com
 DOMAIN-SUFFIX, apperr.log.mgtv.com
 DOMAIN-SUFFIX, m2.da.mgtv.com
 DOMAIN-SUFFIX, m.da.mgtv.com
-#--央视影音-CNTV****************
+#央视影音****************
 DOMAIN-SUFFIX, cws-cctv.conviva.com
 DOMAIN-SUFFIX, galaxy.bjcathay.com
 DOMAIN-SUFFIX, rtas.videocc.net
@@ -927,7 +927,7 @@ DOMAIN-SUFFIX, adguanggao.eee114.com
 DOMAIN-SUFFIX, cctv.adsunion.com
 DOMAIN-SUFFIX, adstore-1252524079.file.myqcloud.com
 DOMAIN-SUFFIX, adstore-index-1252524079.file.myqcloud.com
-#--风行&酷喵/优酷视频-FunShion****************
+#风行&酷喵/优酷视频****************
 DOMAIN-SUFFIX, aa0.pub.funshion.com
 DOMAIN-SUFFIX, aa1.pub.funshion.com
 DOMAIN-SUFFIX, adm.funshion.com
@@ -1820,7 +1820,6 @@ DOMAIN-SUFFIX, api.tuisong.baidu.com
 DOMAIN-SUFFIX, sa8.tuisong.baidu.com
 DOMAIN-SUFFIX, cpro.baidustatic.com
 
-#pkg=qq.com;腾讯广告服务
 DOMAIN-SUFFIX, ad.qun.qq.com
 DOMAIN-SUFFIX, adping.qq.com
 DOMAIN-SUFFIX, adpm.app.qq.com
@@ -1907,7 +1906,6 @@ DOMAIN-SUFFIX, masdk.3g.qq.com
 DOMAIN-SUFFIX, rpt.gdt.qq.com
 DOMAIN-SUFFIX, i.gtimg.cn
 
-#pkg=alibaba.com;阿里广告服务
 DOMAIN-SUFFIX, adash.man.aliyuncs.com
 DOMAIN-SUFFIX, cdn-ads.oss-cn-shanghai.aliyuncs.com
 DOMAIN-SUFFIX, ynuf.aliapp.org
@@ -1943,7 +1941,6 @@ DOMAIN-SUFFIX, adashx4yt.m.taobao.com
 DOMAIN-SUFFIX, h-adashx4yt.ut.taobao.com
 DOMAIN-SUFFIX, umdc.aliapp.org
 
-#pkg=xxx.ad.doubleclick.net;广告联盟
 DOMAIN-SUFFIX, iqiyi.irs01.com
 DOMAIN-SUFFIX, letv.irs01.com
 DOMAIN-SUFFIX, s9.irs03.com
